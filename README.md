@@ -1,3 +1,14 @@
+*This repository houses a small portion of a team-based project for my
+Software Engineering I course at St. Edward's University.*
+
+*The project's goal was to implement a cloud-based web application that
+would allow someone to purchase produce from their home and have it delivered
+to them via an autonomous/self-driving vehicle. This repository is for the Supply-Side
+Backend Services API, which was in charge of cataloging the locations/destinations of 
+vehicles, assigning specific orders to delivery vehicles, dispatching vehicles, 
+confirming successful delivery, and storing all related information in the database.
+It was the first time I had ever built an API.*
+
 # Supply Backend Services
 
 Everything you need to know to understand the vehicle dispatch process, as is.
